@@ -28,9 +28,9 @@ if (coffee.isEmpty()) {
 **bold**
 *italic*
 
-#h1
-##h2
-###h3
+# h1
+## h2
+### h3
 
 * item 1
 * item 2
