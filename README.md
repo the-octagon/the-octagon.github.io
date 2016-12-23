@@ -1,1 +1,1 @@
-# the-octagon.github.io
+# the-octagon@github.com
