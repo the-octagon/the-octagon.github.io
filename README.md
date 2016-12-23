@@ -2,16 +2,31 @@
 
 [TextEditor](http://github.com/the-octagon/TextEditor) - a simple Java text editor
 
+```java
+Coffee coffee = new Coffee();
+
+if (coffee.isEmpty()) {
+	coffee.refill();
+} else {
+	coffee.drink();
+}
+
+```
 
 
-
-
+#
+#
+#
+#
+#
+#
+#
 
 
 //for my reference
 
 **bold**
-*intalic*
+*italic*
 
 #h1
 ##h2
